@@ -12,7 +12,7 @@
 body {
   background: #fff;
   color: #444;
-  font-family: "Open Sans", Hammersmith One;
+  font-family: "Open Sans", HammersmithOne-Regular;
 }
 
 a {
@@ -136,7 +136,7 @@ h6 {
   margin: 0;
   padding: 0;
   line-height: 1;
-  font-family: "Open Sans", Hammersmith One;
+  font-family: "Open Sans", HammersmithOne-Regular;
   font-weight: 700;
 }
 
@@ -320,7 +320,7 @@ h6 {
   content: "\f107";
   position: absolute;
   right: 8px;
-  font-family: FontAwesome;
+  font-family: HammersmithOne-Regular;
   font-style: normal;
   font-weight: normal;
 }
